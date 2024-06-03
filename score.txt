@@ -1,0 +1,4 @@
+server,0,0
+,0,0
+userA,1,0
+userB,0,1

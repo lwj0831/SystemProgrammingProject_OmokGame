@@ -1,6 +1,6 @@
 # OmokGame : SystemProgramming(ELEC462)-2024 Team Project
 ## 📱 Demo Link
-
+https://www.youtube.com/watch?v=tFAXVZjEjCU
 ## 🔥 Project Overview
 플레이어(server-client)들이 두는 수의 정보를 소켓 통신을 통해 주고 받으며 오목판의 상태를업데이트 및 출력하는 2인용 오목 게임 프로그램
 ## 🥺 Team 11

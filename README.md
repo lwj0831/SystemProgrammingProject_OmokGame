@@ -4,7 +4,7 @@
 ## 🔥 Project Overview
 플레이어(server-client)들이 두는 수의 정보를 소켓 통신을 통해 주고 받으며 오목판의 상태를업데이트 및 출력하는 2인용 오목 게임 프로그램
 ## 🥺 Team 11
-|<img src="https://avatars.githubusercontent.com/u/86557146?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/71973291?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/151692917?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/151692917?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83826500?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145525872?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |이원준<br/>[@lwj0831](https://github.com/lwj0831)|심인영<br/>[@dlsdud5962](https://github.com/dlsdud5962)|한준호<br/>[@junho3606](https://github.com/junho3606)| 
 ## 📚 Environment Setting
@@ -22,7 +22,7 @@
 * 오목 게임 플레이
 * 메뉴얼 출력
 * 플레이어 승패 정보 조회
-## 🤔 사용자 플로우
+## 🤔 Instructions for play
 
 ### 메뉴얼 출력
 아무 키나 누르면 메뉴얼 출력 종료 후 메인 메뉴로 돌아가기 기능

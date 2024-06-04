@@ -2,7 +2,7 @@
 ## 📱 Demo Link
 https://www.youtube.com/watch?v=tFAXVZjEjCU
 ## 🔥 Project Overview
-플레이어(server-client)들이 두는 수의 정보를 소켓 통신을 통해 주고 받으며 오목판의 상태를업데이트 및 출력하는 2인용 오목 게임 프로그램
+플레이어(server-client)들이 두는 수의 정보를 소켓 통신을 통해 주고 받으며 오목판의 상태를 업데이트 및 출력하는 2인용 오목 게임 프로그램
 ## 🥺 Team 11
 |<img src="https://avatars.githubusercontent.com/u/151692917?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83826500?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145525872?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=tFAXVZjEjCU
 ## 🤔 Instructions for play
 
 ### 메뉴얼 출력
-아무 키나 누르면 메뉴얼 출력 종료 후 메인 메뉴로 돌아가기 기능
+아무 키나 누르면 메뉴얼 출력 종료 후 메인 메뉴로 돌아가기 가능
 
 ### 오목 게임
 
@@ -34,8 +34,9 @@ https://www.youtube.com/watch?v=tFAXVZjEjCU
 Esc로 뒤로가기, 메인 메뉴로 돌아가기 가능
 
 #### 본격적인 오목 게임 시작
-Enter키를 통해 오목을 두며 만약 이미 돌이 있는 경우에는 둘 수 없는 곳이라는 안내메세지가 하단에 출력, 해당하는 곳에 돌이 없으면 수를 둠
-오목 게임의 경우에도 시그널 핸들링을 통해 Ctrl+C or ESC를 누르면 메인 메뉴로 돌아가기 기능 구현
+방향키를 통해 수를 둘 곳을 지정
+Enter키를 통해 해당 위치에 오목을 둘 수 있음(만약 이미 돌이 있는 경우에는 둘 수 없는 곳이라는 안내메세지가 하단에 출력, 해당하는 곳에 돌이 없으면 수를 둠)
+오목 게임의 경우에도 시그널 핸들링을 통해 Ctrl+C or ESC를 누르면 메인 메뉴로 돌아가기 가능
 
 ### 유저명에 따른 게임 결과 조회
 승패결과를 알고 싶은 플레이어의 이름을 입력 후 Enter
